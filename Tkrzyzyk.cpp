@@ -8,3 +8,7 @@ Tkrzyzyk::Tkrzyzyk(/* args */)
 Tkrzyzyk::~Tkrzyzyk()
 {
 }
+
+Tkrzyzyk::Tkrzyzyk(int liczba) : pozycja{liczba}
+{
+}

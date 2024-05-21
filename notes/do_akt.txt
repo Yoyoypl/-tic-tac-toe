@@ -1,0 +1,1 @@
+g++ GRA.cpp main.cpp Tekran.cpp Tkolko.cpp Tkrzyzyk.cpp

@@ -4,9 +4,11 @@
 class Tkrzyzyk
 {
 private:
-    /* data */
+    int pozycja; // pozycja na ktorej wystepuje ów krzyzyk
+
 public:
     Tkrzyzyk(/* args */);
+    Tkrzyzyk(int); //  do szybkiej inicjaliacji pozycji
     ~Tkrzyzyk();
 };
 
